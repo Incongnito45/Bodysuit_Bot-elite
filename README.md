@@ -1,31 +1,4 @@
-# Bodysuit_Bot-elite
-
-comando para termux 
-
-[*] apt update
-
-[*] apt upgrade
-
-[*] pkg update && pkg upgrade -y
-
-[*] pkg install bash
-
-[*] pkg install libwebp
-
-[*] pkg install git -y
-
-[*] pkg install nodejs -y 
-
-[*] pkg install ffmpeg -y 
-
-[*] pkg install wget
-
-[*] pkg install imagemagick -y
-
-[*] pkg install yarn
-
-[*] termux-setup-storage
-
-[*] yarn install
-
-[*] npm start
+<p align="center"> 
+<a href="https://github.com/Incongnito45"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=BODYSUIT-DESTRUCTOR-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
+</p>
+ 
