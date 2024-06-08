@@ -43,7 +43,7 @@
 ### Cuentas Oficiales:
 > Al acceder a la plataforma, obtendrás acceso a todos los enlaces oficiales de bodysuit digital [3-6]además te mantendremos informado con boletines y mensajes exclusivos sobre las últimas novedades. La página se actualiza constantemente para ofrecerte la información más relevante. ¡No te pierdas ninguna actualización y únete a nuestro canal ahora mismo!
  
-### social media 
+### social media√
  <a href="https://https://www.instagram.com/bodysuitalex?igsh=YzljYTk1ODg3Zg==/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="" > <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
 <a href="https://youtu.be/Q7AIo1_hhIE?si=tFEFpKSrgBRHbdof"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
