@@ -90,10 +90,10 @@ apt upgrade
 pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/KatashiFukushima/KatashiBot-MD
+git clone https://github.com/Incongnito45/Bodysuit_Bot-elite
 ```
 ```bash
-cd KatashiBot-MD
+cd Bodysuit_Bot-elite
 ```
 ```bash
 yarn install
