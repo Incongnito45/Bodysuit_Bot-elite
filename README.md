@@ -188,7 +188,7 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 </a>
 
 ### 🌟 AGRADECIMIENTOS
-[![TheShadowBrokers1]()](https://github.com/GataNina-Li) 
+[![samu300]()]() 
 
 ### 🌟 CREADOR 
 [![KatashiFukushima](https://github.com/KatashiFukushima.png?size=100)](https://github.com/KatashiFukushima) 
