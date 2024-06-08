@@ -28,8 +28,8 @@
 
 <p align="center">   
 <a href="https://github.com/Incongnito45/Bodysuit_Bot-elite/pulse"><img title="Forks" src="https://img.shields.io/github/forks/KatashiFukushima/bodysuitBot-MD?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/KatashiFukushima/KatashiBot-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/KatashiFukushima/KatashiBot-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/KatashiFukushima/KatashiBot-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/KatashiFukushima/KatashiBot-MD?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/Alex-garcia/bodysuitBot-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/KatashiFukushima/KatashiBot-MD?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/WhatsApp-destrutor/bodysuitBot-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/bodysuit/bodysuitBot-MD?label=Stars&color=yellow&style=flat-square"></a>
 </p>
 
 ### Cuentas Oficiales:
@@ -65,7 +65,7 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 ```js
 //LÍNEAS A MODIFICAR
 205 --> "git clone https://github.com/[user]/[repositorio].git"
-//Ejemplo: git clone https://github.com/KatashiFukushima/KatashiBot-MD.git
+//Ejemplo: git clone https://github.com/Incongnito45/Bodysuit_Bot-elite
 
 209 --> "cd [repositorio]"
 //Ejemplo: cd KatashiBot-MD
