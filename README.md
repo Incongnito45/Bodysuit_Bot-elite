@@ -42,6 +42,12 @@
 
 ### Cuentas Oficiales:
 > Al acceder a la plataforma, obtendrás acceso a todos los enlaces oficiales de bodysuit digital [3-6].Además te mantendremos informado con boletines y mensajes exclusivos sobre las últimas novedades. La página se actualiza constantemente para ofrecerte la información más relevante. ¡No te pierdas ninguna actualización y únete a nuestro canal ahora mismo!
+ 
+### social media 
+ <a href="https://https://www.instagram.com/bodysuitalex?igsh=YzljYTk1ODg3Zg==/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://m.twitter.com/princekrvert" > <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
+<a href="https://www.youtube.com/channel/UCiplAqC9AwtGGxXU3WQy8pw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.facebook.com/princekrvert" > <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" ></a>
 
 <a href="https://chat.whatsapp.com/CKVOd9EmqFkLbrWISYX9VH">
 <img src="https://img.shields.io/badge/Redes_Sociales-000000%7D?style=for-the-badge&logo=biolink&logoColor=white">
