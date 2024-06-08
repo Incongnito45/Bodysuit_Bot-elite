@@ -132,7 +132,7 @@ termux-setup-storage
 apt update
 apt upgrade
 pkg install -y git nodejs ffmpeg imagemagick yarn
-cd agregando... 
+cd bot-Bodysuit-missiles-elite✓
 yarn install
 npm install
 npm start
