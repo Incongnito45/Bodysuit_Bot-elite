@@ -13,7 +13,7 @@
 <img src="https://telegra.ph/file/d32678ea277b66005fc01.jpg" alt="destruye-grupos_Bot-MD" width="900"/>
 </p>
 
-> 𝑴𝑼𝑪𝑯𝑨𝑺 𝑮𝑹𝑨𝑪𝑰𝑨𝑺 𝑷𝑶𝑹 𝑷𝑹𝑬𝑭𝑬𝑹𝑰𝑹𝑵𝑶𝑺 😎✨
+> 𝑴𝑼𝑪𝑯𝑨𝑺 𝑮𝑹𝑨𝑪𝑰𝑨𝑺 𝑷𝑶𝑹 𝑷𝑹𝑬𝑭𝑬𝑹𝑰𝑹𝑵𝑶𝑺 𝑺𝑰𝑮𝑼𝑬𝑵𝑶𝑺 𝑬𝑵 𝑵𝑼𝑬𝑺𝑻𝑹𝑶 𝑮𝑹𝑼𝑷𝑶 𝑫𝑬 𝑯𝑨𝑺𝑼𝑴𝑬 𝑴𝑰𝑲𝑼 𝑬𝑳𝑰𝑻𝑬 𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷 ✓ 😎✨
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
