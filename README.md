@@ -68,7 +68,7 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 //Ejemplo: git clone https://github.com/Incongnito45/Bodysuit_Bot-elite
 
 209 --> "cd [repositorio]"
-//Ejemplo: cd KatashiBot-MD
+//Ejemplo: cd Bodysuit_Bot-elite
 
 //Una vez hecho estos cambios ejecute los nuevos comandos en Termux
 ```
