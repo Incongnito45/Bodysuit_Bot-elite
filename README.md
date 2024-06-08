@@ -15,7 +15,7 @@
 
 <p align="center">
 <a href="#"><img title="bodysuit-MD" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
-<img src="https://i.pinimg.com/originals/d4/3c/90/d43c902873d4db8c85974dfd0798030b.gif" height="28px">
+<img src="https://telegra.ph/file/2e14317f6f52b5cc2b07d.jpg" height="28px">
 </p>  
 
 > 𝑴𝑼𝑪𝑯𝑨𝑺 𝑮𝑹𝑨𝑪𝑰𝑨𝑺 𝑷𝑶𝑹 𝑷𝑹𝑬𝑭𝑬𝑹𝑰𝑹𝑵𝑶𝑺 𝑺𝑰𝑮𝑼𝑬𝑵𝑶𝑺 𝑬𝑵 𝑵𝑼𝑬𝑺𝑻𝑹𝑶 𝑮𝑹𝑼𝑷𝑶 𝑫𝑬 𝑯𝑨𝑺𝑼𝑴𝑬 𝑴𝑰𝑲𝑼 𝑬𝑳𝑰𝑻𝑬 𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷 ✓ 😎✨
