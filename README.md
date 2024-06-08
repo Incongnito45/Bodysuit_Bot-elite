@@ -124,7 +124,7 @@ npm start
   
 ### 📁 (OPCIÓN 3) INSTALACIÓN POR TERMUX - ARCHIVOS
 > **Note** Descargué y Descomprime
-### [`𝗯𝗼𝗱𝘆𝘀𝘂𝗶𝘁_𝗯𝗼𝘁~ Archivos`]()
+### [`𝗯𝗼𝗱𝘆𝘀𝘂𝗶𝘁_𝗯𝗼𝘁~ Archivos`](https://drive.google.com/file/d/1C9lrUSR763oaSRt0Lqxq20CdELRVnDW7/view?usp=drivesdk)
 [![blog](https://img.shields.io/badge/NO_TUTORIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ]()
 ```bash
