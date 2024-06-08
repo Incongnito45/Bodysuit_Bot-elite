@@ -122,9 +122,9 @@ npm start
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
   
-### 📁 (OPCIÓN 3) INSTALACIÓN POR TERMUX - ARCHIVOS SOLO EN DRIVERS
-> **Note** Descargué y Descomprime
-### [`𝗯𝗼𝗱𝘆𝘀𝘂𝗶𝘁_𝗯𝗼𝘁~ Archivos`](https://drive.google.com/file/d/1C9lrUSR763oaSRt0Lqxq20CdELRVnDW7/view?usp=drivesdk)
+### 📁 (OPCIÓN 3) INSTALACIÓN POR TERMUX - ARCHIVOS SOLO EN We transfer
+> **Note** Descargué y Descomprime luego verás el vídeo que pronto estará disponible.
+### [`𝗯𝗼𝗱𝘆𝘀𝘂𝗶𝘁_𝗯𝗼𝘁~ Archivos`](https://we.tl/t-TomTVFd3tq)
 [![blog](https://img.shields.io/badge/NO_TUTORIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ]()
 ```bash
