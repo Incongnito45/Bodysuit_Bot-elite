@@ -183,7 +183,7 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 <p align="center">
 
 ### 🌟 DESARROLLADORES
-[![naide,naide](https://avatars.githubusercontent.com/u/119005214?v=4)]() 
+[![naide,naide](https://avatars.githubusercontent.com/u/119005214?size=60)]() 
 
 ### 🌟 AGRADECIMIENTOS
 [![samu300](https://avatars.githubusercontent.com/u/76408737?v=60)](https://github.com/Samu330) 
