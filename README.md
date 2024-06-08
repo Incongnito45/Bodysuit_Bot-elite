@@ -165,7 +165,7 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 <p align="center">
 
 
-> Recuerda leer la **[Política de KatashiBot. 🥷](https://github.com/KatashiFukushima/KatashiBot-MD/blob/master/terms.md)** antes de hacer algo con este repositorio. 
+> Recuerda leer la **[Política de l𝗯𝗼𝗱𝘆𝘀𝘂𝗶𝘁_𝗯𝗼𝘁. 🥷]()** antes de hacer algo con este repositorio. 
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
@@ -183,12 +183,12 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 <p align="center">
 
 ### 🌟 DESARROLLADORES
-<a href="https://github.com/KatashiFukushima/KatashiBot-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=KatashiFukushima/KatashiBot-MD" /> 
+<a href="">
+<img src="" /> 
 </a>
 
 ### 🌟 AGRADECIMIENTOS
-[![TheShadowBrokers1](https://github.com/GataNina-Li.png?size=60)](https://github.com/GataNina-Li) 
+[![TheShadowBrokers1]()](https://github.com/GataNina-Li) 
 
 ### 🌟 CREADOR 
 [![KatashiFukushima](https://github.com/KatashiFukushima.png?size=100)](https://github.com/KatashiFukushima) 
