@@ -183,13 +183,11 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 <p align="center">
 
 ### 🌟 DESARROLLADORES
-<a href="">
-<img src="" /> 
-</a>
+[![naide, Alex]()]() 
 
 ### 🌟 AGRADECIMIENTOS
 [![samu300]()]() 
 
 ### 🌟 CREADOR 
-[![alex,naide](https://github.com/KatashiFukushima.png?size=100)](https://github.com/KatashiFukushima) 
+[![alex,naide](https://github.com/KatashiFukushima.png?size=100)](https://github.com/Incongnito45/Bodysuit_Bot-elite) 
 > Copyright (c) 2024 **[𝗯𝗼𝗱𝘆𝘀𝘂𝗶𝘁_𝗯𝗼𝘁](https://github.com/KatashiFukushima/KatashiBot-MD/blob/master/LICENSE)**.
