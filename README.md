@@ -189,5 +189,5 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 [![samu300](https://avatars.githubusercontent.com/u/76408737?size=60)](https://github.com/Samu330) 
 
 ### 🌟 CREADOR 
-[![alex,naide](https://github.com/KatashiFukushima.png?size=100)](https://github.com/Incongnito45/Bodysuit_Bot-elite) 
+[![alex,naide](https://avatars.githubusercontent.com/u/119005214?size=100)](https://github.com/Incongnito45/Bodysuit_Bot-elite) 
 > Copyright (c) 2024 **[𝗯𝗼𝗱𝘆𝘀𝘂𝗶𝘁_𝗯𝗼𝘁](https://github.com/KatashiFukushima/KatashiBot-MD/blob/master/LICENSE)**.
