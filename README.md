@@ -112,7 +112,7 @@ npm start
 > **Note** Descargué y Descomprime
 ### [`KatashiBot-MD ~ Archivos`](https://github.com/KatashiFukushima/KatashiBot-MD/archive/refs/heads/master.zip)
 [![blog](https://img.shields.io/badge/NO_TUTORIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://www.youtube.com/shorts/ZLJYDUM6vSY)
+]()
 ```bash
 termux-setup-storage
 apt update
@@ -154,7 +154,7 @@ pm2 start index
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
   
-### 🥷🏻 ACTUALIZAR KATASHIBOT
+### 🥷🏻 ACTUALIZAR 𝗯𝗼𝗱𝘆𝘀𝘂𝗶𝘁_𝗯𝗼𝘁
 > **Note** Comandos para actualizar KatashiBot-MD de forma automática
 ```bash
 grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/KatashiFukushima/KatashiBot-MD/master/update.sh | bash 
