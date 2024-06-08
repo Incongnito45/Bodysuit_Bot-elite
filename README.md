@@ -191,5 +191,5 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 [![samu300]()]() 
 
 ### 🌟 CREADOR 
-[![KatashiFukushima](https://github.com/KatashiFukushima.png?size=100)](https://github.com/KatashiFukushima) 
-> Copyright (c) 2024 **[KatashiFukushima](https://github.com/KatashiFukushima/KatashiBot-MD/blob/master/LICENSE)**.
+[![alex,naide](https://github.com/KatashiFukushima.png?size=100)](https://github.com/KatashiFukushima) 
+> Copyright (c) 2024 **[𝗯𝗼𝗱𝘆𝘀𝘂𝗶𝘁_𝗯𝗼𝘁](https://github.com/KatashiFukushima/KatashiBot-MD/blob/master/LICENSE)**.
