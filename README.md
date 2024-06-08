@@ -190,4 +190,4 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 
 ### 🌟 CREADOR 
 [![alex,naide](https://avatars.githubusercontent.com/u/119005214?size=100)](https://github.com/Incongnito45/Bodysuit_Bot-elite) 
-> Copyright (c) 2024 **[𝗯𝗼𝗱𝘆𝘀𝘂𝗶𝘁_𝗯𝗼𝘁](https://github.com/KatashiFukushima/KatashiBot-MD/blob/master/LICENSE)**.
+> Copyright (c) 2024 **[🔰𝗟𝗕-𝗙𝗜𝗟𝗧𝗔𝗙𝗙 𝗪𝗔  𝗕𝗢𝗧🔰](https://github.com/KatashiFukushima/KatashiBot-MD/blob/master/LICENSE)**.
