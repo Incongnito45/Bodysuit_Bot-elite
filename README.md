@@ -205,3 +205,31 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 ### 🌟 CREADOR 
 [![alex,naide](https://avatars.githubusercontent.com/u/119005214?size=100)](https://github.com/Incongnito45/Bodysuit_Bot-elite) 
 > Copyright (c) 2024 **[🔰𝗟𝗕-𝗙𝗜𝗟𝗧𝗔𝗙𝗙 𝗪𝗔  𝗕𝗢𝗧🔰](https://chat.whatsapp.com/BeQ8l8wSfPq6lW7WKaFe4z)**.
+
+
+
+## Star History
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sherlock-project/sherlock&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sherlock-project/sherlock&type=Date" />
+  <img alt="Sherlock Project Star History Chart" src="https://api.star-history.com/svg?repos=sherlock-project/sherlock&type=Date" />
+</picture>
+
+## License
+
+MIT © Sherlock Project<br/>
+Original Creator - [Siddharth Dushantha](https://github.com/sdushantha)
+
+<!-- Reference Links -->
+
+[docs_install]: /docs/INSTALL.md
+[docs_docker]: /docs/INSTALL.md#docker
+[docs_py]: /docs/INSTALL.md#python
+[docs_contrib]: /docs/CONTRIBUTING.md
+[docs_contrib_adding_targets]: /docs/CONTRIBUTING.md#adding-targets
+[docs_contrib_removing_targets]: /docs/CONTRIBUTING.md#removing-targets
+[docs_contrib_restoring_targets]: /docs/CONTRIBUTING.md#restoring-targets
+[ext_pypi]: https://pypi.org/project/sherlock-project/
+[ext_brew]: https://formulae.brew.sh/formula/sherlock
+
