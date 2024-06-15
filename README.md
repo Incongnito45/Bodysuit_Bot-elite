@@ -211,9 +211,9 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 ## Star History
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sherlock-project/sherlock&type=Date&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sherlock-project/sherlock&type=Date" />
-  <img alt="Sherlock Project Star History Chart" src="https://api.star-history.com/svg?repos=sherlock-project/sherlock&type=Date" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=bodysuit-project/sherlock&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=destructor-project/sherlock&type=Date" />
+  <img alt="Sherlock Project Star History Chart" src="https://api.star-history.com/svg?repos=digital-project/sherlock&type=Date" />
 </picture>
 
 ## License
@@ -230,6 +230,6 @@ Original Creator - [proyecto de WhatsApp]()
 [docs_contrib_adding_targets]: /docs/CONTRIBUTING.md#adding-targets
 [docs_contrib_removing_targets]: /docs/CONTRIBUTING.md#removing-targets
 [docs_contrib_restoring_targets]: /docs/CONTRIBUTING.md#restoring-targets
-[ext_pypi]: https://pypi.org/project/bodysuit destructor-project/
+[ext_pypi]: https://pypi.org/project/sherlock-project/
 [ext_brew]: https://formulae.brew.sh/formula/sherlock
 
