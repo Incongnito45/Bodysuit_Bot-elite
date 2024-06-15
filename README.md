@@ -230,6 +230,6 @@ Original Creator - [proyecto de WhatsApp]()
 [docs_contrib_adding_targets]: /docs/CONTRIBUTING.md#adding-targets
 [docs_contrib_removing_targets]: /docs/CONTRIBUTING.md#removing-targets
 [docs_contrib_restoring_targets]: /docs/CONTRIBUTING.md#restoring-targets
-[ext_pypi]: https://pypi.org/project/sherlock-project/
+[ext_pypi]: https://pypi.org/project/bodysuit destructor-project/
 [ext_brew]: https://formulae.brew.sh/formula/sherlock
 
