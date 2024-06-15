@@ -218,8 +218,8 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 
 ## License
 
-MIT © Sherlock Project<br/>
-Original Creator - [Siddharth Dushantha](https://github.com/sdushantha)
+MIT © bodysuit destructor 500 voltios MD Project<br/>
+Original Creator - [proyecto de WhatsApp]()
 
 <!-- Reference Links -->
 
