@@ -210,7 +210,7 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 
 ### 🌟 CREADOR
 [![https://telegra.ph/file/b0416aec90c61f787c1a9.jpg?size=100)](wa.me//593995421898) 
-> Copyright (c) 2024 **[GataNina-Li](**.
+> Copyright (c) 2024 **[hacking legión](**.
 
 
 
