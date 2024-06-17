@@ -202,8 +202,7 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 ### 🌟 AGRADECIMIENTOS
 [![samu300](https://avatars.githubusercontent.com/u/76408737?size=60)](https://github.com/Samu330) 
 
-### 🌟 creador principal
-[![samu300](https://telegra.ph/file/b0416aec90c61f787c1a9.jpg?size=60)](https://github.com/Samu33
+
 
 ### 🌟 CREADOR 
 [![alex,naide](https://avatars.githubusercontent.com/u/119005214?size=100)](https://github.com/Incongnito45/Bodysuit_Bot-elite) 
