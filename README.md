@@ -205,13 +205,10 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 
 
 ### 🌟 CREADOR 
-[![alex,naide](https://avatars.githubusercontent.com/u/119005214?size=100)](https://github.com/Incongnito45/Bodysuit_Bot-elite) 
+[![alex,naide](https://avatars.githubusercontent.com/u/119005214?size=100)](wa.me//593995421898) 
 > Copyright (c) 2024 **[🔰𝗟𝗕-𝗙𝗜𝗟𝗧𝗔𝗙𝗙 𝗪𝗔  𝗕𝗢𝗧🔰](https://chat.whatsapp.com/BeQ8l8wSfPq6lW7WKaFe4z)**.
 
 
-### 🌟 CREADOR 
-[![legión hacking](https://telegra.ph/file/b0416aec90c61f787c1a9.jpg?size=60)](wa.me//593995421898) 
-> Copyright (c) 2024 **[🔰soporte prueba🔰](https://chat.whatsapp.com/IEUeNpdmLSmBxBMuAufTHz)**.
 
 
 
