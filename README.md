@@ -34,12 +34,12 @@
 <a href="#"><img title="bodysuit-destrutor-MD" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a>
 </p>
 
-<a href="https://instagram.com/gata_dios" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
-<a href="https://www.youtube.com/@gatadios" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/>
-<a href="mailto:centergatabot@gmail.com">
+<a href="no disponible" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
+<a href="no disponible " target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/>
+<a href="soportebodysuit@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 <a
- href="https://www.facebook.com/profile.php?id=100074741175505&mibextid=ZbWKwL"/>
+ href="https://www.facebook.com/profile.php?id=100021974774712"/>
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 <a href="https://chat.whatsapp.com/IXZ0aBryB1cHjNxe0VIm76"/>
 <img src="https://img.shields.io/badge/🐈_𝘎𝘢𝘵𝘢𝘉𝘰𝘵_𝘚𝘰𝘤𝘪𝘢𝘭_🌐-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
