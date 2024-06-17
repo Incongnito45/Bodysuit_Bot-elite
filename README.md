@@ -59,7 +59,7 @@
 <a href="https://youtu.be/Q7AIo1_hhIE?si=tFEFpKSrgBRHbdof"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://www.facebook.com/profile.php?id=100021974774712" > <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" ></a>
 
-<a href="https://chat.whatsapp.com/CKVOd9EmqFkLbrWISYX9VH">
+<a href="wa.me//593995421898">
 <img src="https://img.shields.io/badge/Redes_Sociales-000000%7D?style=for-the-badge&logo=biolink&logoColor=white">
 </a>
 
