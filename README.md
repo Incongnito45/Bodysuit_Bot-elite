@@ -238,6 +238,7 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 MIT © bodysuit destructor 500 voltios MD Project<br/>
 Original Creator - [proyecto de WhatsApp]()
 
+
 <!-- Reference Links -->
 
 [docs_install]: /docs/INSTALL.md
