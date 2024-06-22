@@ -238,3 +238,7 @@ Original Creator - [proyecto de WhatsApp]()
 <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="25"></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ea5f0&height=120&section=footer"/>
+
+#### VISITAS 🌐
+
+<p align="center"><img src="https://profile-counter.glitch.me/{glytglobal}/count.svg" alt="glytglobal :: Visitor's Count" /></p>
