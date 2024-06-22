@@ -23,6 +23,9 @@
 <a href="https://wa.me/573157265488"><img title="Author" src="https://img.shields.io/badge/diseñador publico 2.0-black?style=for-the-badge&logo=whatsApp"></a>
 <p/>
 <p align="center">
+<a href="https://wa.me/34633807936"><img title="Author" src="https://img.shields.io/badge/representante de la administración-black?style=for-the-badge&logo=whatsApp"></a>
+<p/>
+<p align="center">
 <img title="Github" src="https://img.shields.io/badge/Github-bodysuit-brightgreen?style=for-the-badge&logo=github"></a>
 </a>
 <p align="center">
