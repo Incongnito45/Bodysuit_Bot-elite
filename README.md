@@ -225,7 +225,7 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 ### 🌟 DESARROLLADORES
 [![naide,naide](https://avatars.githubusercontent.com/u/119005214?size=60)]() 
 
-<a href="https://rebrand.ly/githubprof"><img title="Github" src="https://img.shields.io/badge/samu330-colaborador-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Samu330"><img title="Github" src="https://img.shields.io/badge/samu330-colaborador-brightgreen?style=for-the-badge&logo=github"></a>
 ## License
 
 MIT © bodysuit destructor 500 voltios MD Project<br/>
