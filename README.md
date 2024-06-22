@@ -240,15 +240,9 @@ MIT © bodysuit destructor 500 voltios MD Project<br/>
 Original Creator - [proyecto de WhatsApp]()
 
 
-<!-- Reference Links -->
 
-[docs_install]: /docs/INSTALL.md
-[docs_docker]: /docs/INSTALL.md#docker
-[docs_py]: /docs/INSTALL.md#python
-[docs_contrib]: /docs/CONTRIBUTING.md
-[docs_contrib_adding_targets]: /docs/CONTRIBUTING.md#adding-targets
-[docs_contrib_removing_targets]: /docs/CONTRIBUTING.md#removing-targets
-[docs_contrib_restoring_targets]: /docs/CONTRIBUTING.md#restoring-targets
-[ext_pypi]: https://pypi.org/project/sherlock-project/
-[ext_brew]: https://formulae.brew.sh/formula/sherlock
+<a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" height="25"></a>
 
+<a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="25"></a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ea5f0&height=120&section=footer"/>
