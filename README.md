@@ -17,10 +17,6 @@
 <a href="#"><img title="bodysuit-MD" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
 <img src="https://telegra.ph/file/2e14317f6f52b5cc2b07d.jpg" height="28px">
 </p>  
-#🔰𝗟𝗕-𝗙𝗜𝗟𝗧𝗔𝗙𝗙 𝗪𝗔  𝗕𝗢𝗧🔰
-<p align="center">
-<a href="https://is.gd/UQreTd"><img title="Made in Colombia" src="https://img.shields.io/badge/MADE%20IN-colombia-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
-</p>
 
 <p align="center">
 href="https://github.com/Incongnito45/Bodysuit_Bot-elite"><img title="Github" src="https://img.shields.io/badge/Github-bodysuit-brightgreen?style=for-the-badge&logo=github"></a>
