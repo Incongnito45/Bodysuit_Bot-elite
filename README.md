@@ -220,6 +220,8 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=ADF7CC&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%92%BB+MIS+SEGUIDORES+%F0%9F%92%BB" alt="Typing SVG" /></a>
+
 ### 🌟 DESARROLLADORES
 [![naide,naide](https://avatars.githubusercontent.com/u/119005214?size=60)]() 
 
