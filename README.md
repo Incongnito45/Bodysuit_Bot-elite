@@ -226,14 +226,6 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 ### 🌟 AGRADECIMIENTOS
 [![samu300](https://avatars.githubusercontent.com/u/76408737?size=60)](https://github.com/Samu330) 
 
-## Star History
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sherlock-project/sherlock&type=Date&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=destructor-project/sherlock&type=Date" />
-  <img alt="bodysuit Project Star History Chart" src="https://api.star-history.com/svg?repos=digital-project/sherlock&type=Date" />
-</picture>
-
 ## License
 
 MIT © bodysuit destructor 500 voltios MD Project<br/>
