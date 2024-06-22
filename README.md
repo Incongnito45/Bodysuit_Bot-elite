@@ -220,12 +220,6 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 ### 🌟 AGRADECIMIENTOS
 [![samu300](https://avatars.githubusercontent.com/u/76408737?size=60)](https://github.com/Samu330) 
 
-
-
-### 🌟 CREADOR 
-[![alex,naide](https://avatars.githubusercontent.com/u/119005214?size=100)](wa.me//593995421898) 
-> Copyright (c) 2024 **[🔰𝗟𝗕-𝗙𝗜𝗟𝗧𝗔𝗙𝗙 𝗪𝗔  𝗕𝗢𝗧🔰](https://chat.whatsapp.com/BeQ8l8wSfPq6lW7WKaFe4z)**.
-
 ## Star History
 
 <picture>
