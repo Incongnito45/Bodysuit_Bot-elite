@@ -1,4 +1,4 @@
-# **🔥𝐃𝐄𝐒𝐓𝐑𝐔𝐂𝐓𝐎𝐑 𝐁𝐎𝐃𝐘𝐒𝐔𝐈𝐓 𝟐.𝟎🔥**
+# **🔥`𝐃𝐄𝐒𝐓𝐑𝐔𝐂𝐓𝐎𝐑 𝐁𝐎𝐃𝐘𝐒𝐔𝐈𝐓 𝟐.𝟎`🔥**
 ## ESTA EN MANTENIMIENTO POR UNAS SEMANAS PORFAVOR ESPERAR A QUE TENGA NUEVAS ACTUALIZACIONES LO PUEDEN USAR PERO TENDRA ERRORES.
 > <b>🚀 VERSIÓN 3.6</b>
 <p align="center"> 
